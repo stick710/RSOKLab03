@@ -11,6 +11,7 @@ namespace RSOKLab03
         static void Main(string[] args)
         {
             Console.WriteLine("Milan Sevarika");
+            Console.WriteLine("test43");
             Console.ReadLine();
         }
     }
